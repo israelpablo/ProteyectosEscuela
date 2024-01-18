@@ -1,7 +1,19 @@
 # ProteyectosEscuela
 Proyectos de escuela creados
 
-# [Proyecto Materia Ingenieria de Software](https://github.com/israelpablo/IA)
+# [Proyecto Materia Administracion de Base de Datos]
+```
+ Proyectos realizados en SQL server , C#.
+```
+# [Proyecto Materia Desarrollo Web]
+```
+Proyectos realizados en Nodejs, Ejs, JS, SQL,HandelrsBar.
+```
+# [Proyecto Materia Fundamentos de Ingenieria de Software]
+```
+Proyectos realizados en Nodejs, Ejs, JS, SQL.
+```
+# [Proyecto Materia Ingenieria de Software](https://github.com/israelpablo/Tickets)
 ```
 Proyectos realizados en Nodejs, Ejs, JS, SQL.
 ```
