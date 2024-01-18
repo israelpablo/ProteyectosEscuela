@@ -1,4 +1,4 @@
-# ProteyectosEscuela
+# Proteyectos de Escuela
 Proyectos de escuela creados
 
 # [Proyecto Materia Administracion de Base de Datos]
