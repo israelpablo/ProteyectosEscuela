@@ -7,7 +7,7 @@ Proyectos de escuela creados
 Materia de la especialidad en base de datos
 Proyectos realizados por el Software R estudio
 ```
-# [Proyectos Materia Datos Masivos]((https://github.com/israelpablo/DatoMasivos)
+# [Proyectos Materia Datos Masivos](https://github.com/israelpablo/DatoMasivos)
 ```
 Materia de la especialidad en base de datos
 Proyectos realizados por el Software SCALA
